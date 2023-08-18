@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aravindhrs/aravindhrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/aravindhrs"><img src="https://api.daily.dev/devcards/f7650c0b8e5446ae97d174b922234a53.png?r=o6a" width="400" alt="Aravindh Ravi's Dev Card"/></a>
+<div id="header" align="center">
+  <a href="https://app.daily.dev/aravindhrs"><img src="https://api.daily.dev/devcards/f7650c0b8e5446ae97d174b922234a53.png?r=385" width="400" alt="Aravindh Ravi's Dev Card"/></a>
+</div>
