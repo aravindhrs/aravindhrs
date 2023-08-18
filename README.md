@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <a href="https://app.daily.dev/aravindhrs"><img src="https://api.daily.dev/devcards/f7650c0b8e5446ae97d174b922234a53.png?r=385" width="400" alt="Aravindh Ravi's Dev Card"/></a>
+  <a href="https://app.daily.dev/aravindhrs"><img src="https://api.daily.dev/devcards/f7650c0b8e5446ae97d174b922234a53.png?r=100" width="400" alt="Aravindh Ravi's Dev Card"/></a>
+  <a href="https://forum.camunda.io/leaderboard"><img src="https://forum.camunda.io/u/aravindhrs/summary?r=385" width="200" alt="Camunda Forum"/></a>
 </div>
+
